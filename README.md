@@ -38,7 +38,7 @@ $ pip install lolcat
 $ pip install rich
 $ pip install bs4
 $ pkg install git
-$ rm -rf DUMP
+$ rm -rf TAMP-MAIL
 $ git clone --depth=1 https://github.com/Sagor-BCZ/TAMP-MAIL
 $ cd TAMP-MAIL
 $ python BCZ_TAMP.py
